@@ -1,0 +1,89 @@
+{
+    "datetime": "2024-05-19",
+    "datetimeEpoch": 1716057000,
+    "tempmax": 89.7,
+    "tempmin": 71.5,
+    "temp": 79.6,
+    "feelslikemax": 0.0,
+    "feelslikemin": 0.0,
+    "feelslike": 93.6,
+    "dew": 67.6,
+    "humidity": 69.6,
+    "precip": 0.22,
+    "precipprob": 23.8,
+    "precipcover": 10.0,
+    "preciptype": null,
+    "snow": null,
+    "snowdepth": null,
+    "windgust": 41.4,
+    "windspeed": 11.9,
+    "winddir": 250.1,
+    "pressure": 1001.0,
+    "cloudcover": 55.3,
+    "visibility": 4.4,
+    "solarradiation": null,
+    "solarenergy": null,
+    "uvindex": null,
+    "sunrise": "05:53:30",
+    "sunriseEpoch": 1716078210,
+    "sunset": "18:39:02",
+    "sunsetEpoch": 1716124142,
+    "moonphase": 0.36,
+    "conditions": "Partially cloudy",
+    "description": "",
+    "icon": "partly-cloudy-day",
+    "stations": null,
+    "source": "stats",
+    "normal": {
+        "tempmax": [
+            76.7,
+            89.7,
+            102.3
+        ],
+        "tempmin": [
+            67.4,
+            71.5,
+            75.8
+        ],
+        "feelslike": [
+            67.4,
+            89.7,
+            105.2
+        ],
+        "precip": [
+            0.0,
+            0.2,
+            1.9
+        ],
+        "humidity": [
+            53.4,
+            69.6,
+            79.9
+        ],
+        "snowdepth": [
+            null,
+            null,
+            null
+        ],
+        "windspeed": [
+            5.8,
+            11.9,
+            17.2
+        ],
+        "windgust": [
+            41.4,
+            41.4,
+            41.4
+        ],
+        "winddir": [
+            203.6,
+            250.1,
+            272.9
+        ],
+        "cloudcover": [
+            18.8,
+            55.3,
+            95.7
+        ]
+    }
+}
